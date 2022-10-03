@@ -1,0 +1,77 @@
+.top_container {
+    background-color: #e0ebe8;
+    color: #4ab19a;
+    position: relative;
+    padding-top: 150px;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Clicker Script', cursive;
+    font-size: 105px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: #4ab19a;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #4ab19a;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    /*because of this we can center all the text in center*/
+    font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 100px
+}
+
+.mid_container {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.bottom-container{
+    position: relative;
+    top:15px;
+}
+hr{
+    width: 5%;  
+    border-style: none;
+    border-top-style:dotted ;
+    border-width: 5px;
+    border-color: rgb(182, 130, 84,.2); 
+    ;
+}
+.btn{
+    background-color: #4ab19a;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.skill-img-1{
+    border-radius: 50%;
+    height: 300px;
+}
