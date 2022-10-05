@@ -1,0 +1,130 @@
+.top_container {
+    background-color: #e0ebe8;
+    position: relative;
+    padding-top: 150px;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Clicker Script', cursive;
+    font-size: 6.25rem;
+    margin-bottom: 50px;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+    color: #40514E ;
+    margin: 0px;
+    text-align: center;
+    /*because of this we can center all the text in center*/
+    font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 100px
+}
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.bottom-container {
+    padding: 30px 0;
+    position: relative;
+    top: 15px;
+    background-color: #66BFBF;
+}
+
+.bottom-container p {
+    color: white;
+    padding: 20px 0;
+    font-size: 0.75rem;
+}
+.bottom-container a:hover {
+    color:white;
+
+}
+
+
+hr {
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rgb(182, 130, 84, .2);
+    ;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border: none;
+    border-radius: 8px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+.code-img{ 
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.edit-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.footer-link{
+    display: inline-block;
+    color: #11999E;
+    text-decoration: none;
+    padding: 0 10px 0 10px;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
